@@ -10,3 +10,5 @@ car1=Car("hero","gh334")
 car1.display()
 obj.display()
 print("hello world 2")
+def division(a,b):
+    return a/b
